@@ -65,6 +65,3 @@
 ```
 ### 2. 配置Spring Security
 新建`WebSecurityConfig.java`文件
-``` java
-
-```
